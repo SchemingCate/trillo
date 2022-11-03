@@ -1,5 +1,7 @@
 # TRILLO
 
+> :globe_with_meridians: [На русском](/readme-ru.md)
+
 'Trillo' is a _**study project**_ I'm doing on ['Advanced CSS and Sass: Flexbox, Grid, Animations and More!' course by Jonas Schmedtmann.](https://www.udemy.com/course/advanced-css-and-sass/).
 
 ---
